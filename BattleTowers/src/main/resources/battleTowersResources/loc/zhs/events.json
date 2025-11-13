@@ -1,5 +1,5 @@
 {
-  "battleTowers:TowerEnter": {
+  "${ModID}:TowerEnter": {
     "NAME": "高塔脚下",
     "DESCRIPTIONS": [
       "你站在一个叉路口。 一边是无人看管 #b唾手可得 的财宝箱，另一边不远处是一座充满 #r~挑战~ 的高塔，你要选择哪边呢？ NL NL 选择权在你。"
@@ -9,7 +9,7 @@
       "[宝箱] 财宝是你的了。"
     ]
   },
-  "battleTowers:Example": {
+  "${ModID}:Example": {
     "NAME": "一个事件",
     "DESCRIPTIONS": [
       "初始选择",
@@ -27,7 +27,7 @@
       "[奋力前往日本]"
     ]
   },
-  "battleTowers:EmeraldFlame": {
+  "${ModID}:EmeraldFlame": {
     "NAME": "绿宝石火",
     "DESCRIPTIONS": [
       "你遇到了一团篝火，周围有看上去像是 #b蓝色火精灵 的生物在 ~跳舞~ 。 NL ",
@@ -48,7 +48,7 @@
       "[离开]"
     ]
   },
-  "battleTowers:VoidShrine": {
+  "${ModID}:VoidShrine": {
     "NAME": "虚空神殿",
     "DESCRIPTIONS": [
       "你偶然发现了一座 #p荒凉的 神殿，它微弱地散发出一种仿佛来自 #p另一个世界 的能量。 NL NL 你向前一步，发现它正渴求你的某种东西。 #r血液 ， #y财富 , 或是 #p灵魂 。",
@@ -73,7 +73,7 @@
       "锁定：需要金币"
     ]
   },
-  "battleTowers:OttoEvent": {
+  "${ModID}:OttoEvent": {
     "NAME": "傀儡的棋局",
     "DESCRIPTIONS": [
       "攀爬高塔的途中，一只大得离谱的傀儡闯入了你的视线，它独自坐在一张和地面融为一体的桌子边。 NL NL \"奥托发现新朋友！要和奥托玩一把吗？奥托有奖赏！\" NL NL 你扫视桌面，发现了一副西洋棋盘，上面摆着雕刻的棋子。奥托似乎想邀请你和他玩一局。",
@@ -94,7 +94,7 @@
       "选择要移除的牌"
     ]
   },
-  "battleTowers:BannerSageEvent": {
+  "${ModID}:BannerSageEvent": {
     "NAME": "旗帜哲人",    
 	"DESCRIPTIONS":[
 	  "你偶然地逛进了高塔内的一片购物区。一面由红色丝绸制成的旗帜吸引了你，一名饱受战争摧残的年迈巨人正拿着它。他在顾客群中发现了你，并举起仅存的那条手臂向你问候。 NL NL \"你好，我的朋友，我的名字是River, \" 这个高大的人开口了， \" 这些军旗都是我手工制作的，每一面都独一无二。你感兴趣吗？ \" ",
@@ -109,7 +109,7 @@
       "[离开]"
     ]
   },
-  "battleTowers:PotOfGoldEvent": {
+  "${ModID}:PotOfGoldEvent": {
     "NAME": "金币壶",
     "DESCRIPTIONS": [
       "在高塔的一条走廊内，你偶然发现了一个显眼的 #y~散发着微光 的壶。壶里装满了金币，并且四下无人看管！旁边有一块告示牌写着： NL NL #b把金币放入此碗，不要拿走， NL #b因为贪婪会毒害并丑化人们的灵魂... ",
@@ -128,7 +128,7 @@
       "[离开]"
     ]
   },
-  "battleTowers:GenieLamp": {
+  "${ModID}:GenieLamp": {
     "NAME": "一个愿望",
     "DESCRIPTIONS": [
       " \"走吧兄弟们，这玩意是个废品。 \" 你看见三个 #r暴徒 离开了你正好要去的房间。 NL NL 你快速扫了一眼，发现里面非常黑，四周都是模糊不清的影子，房间正中间有一盏 #y~油灯~ 。 NL NL 你仿佛中了魔一样伸手去触摸，一道 #p青烟 #p~冒了出来~ 。 NL NL \" #p~伟大的灯神将实现你的愿望~ \" 。",
@@ -143,7 +143,7 @@
       "继续"
     ]
   },
-  "battleTowers:RoarOfTheCrowd": {
+  "${ModID}:RoarOfTheCrowd": {
     "NAME": "呼啸人群",
     "DESCRIPTIONS": [
       "你听见了人群的喝彩声，于是欣喜地停下了攀爬的脚步。这个地方虽不如 #b竞技场 有名，但也非常热闹。 NL NL 但其实是因为激动的人群堵住了你的去路！你现在需要利用口才开出一条路。 NL NL 你制定了两个方案：一个戴着 #p鸟面具的生物 想要你的 #r血液 但会给你 #y金币 作为奖励；还有一个 #b蓝色的人型生物 需要你的 #y捐助 ，作为回报他会赐予你一个 #g祝福 。",
@@ -158,7 +158,7 @@
       "[离开]"
     ]
   },
-  "battleTowers:ArmorerEvent": {
+  "${ModID}:ArmorerEvent": {
     "NAME": "锻造师",
     "DESCRIPTIONS": [
       "给予1层易伤。",
@@ -197,7 +197,7 @@
       "[锁定] 无法支付。"
     ]
   },
-  "battleTowers:GentlemanEvent": {
+  "${ModID}:GentlemanEvent": {
     "NAME": "神秘身影",
     "DESCRIPTIONS": [
       "在一个胡同中，一个奇怪的人影向你靠近，它被阴影包裹着，很难看清轮廓。 NL #p\"你似乎遇到了一些麻烦，我的朋友。或许我可以帮助你...代价只是 @你的灵魂。\"@ ",

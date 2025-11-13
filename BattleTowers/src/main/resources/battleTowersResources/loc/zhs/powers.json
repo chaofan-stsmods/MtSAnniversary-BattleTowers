@@ -1,93 +1,93 @@
 {
-  "battleTowers:UltimatePower": {
+  "${ModID}:UltimatePower": {
     "NAME": "无穷力量",
     "DESCRIPTIONS": [
       "你很酷，很强壮。"
     ]
   },
-  "battleTowers:SuperRitualPower": {
+  "${ModID}:SuperRitualPower": {
     "NAME": "超级仪式",
     "DESCRIPTIONS": [
       "回合结束时，获得 #b",
       " #y力量 和 #y敏捷 。"
     ]
   },
-  "battleTowers:OnusPower": {
+  "${ModID}:OnusPower": {
     "NAME": "职权",
     "DESCRIPTIONS": [
       "在你的回合结束时，将你的手牌放回抽牌堆顶部。"
     ]
   },
-  "battleTowers:rewoPgnitfihS": {
+  "${ModID}:rewoPgnitfihS": {
     "NAME": "魔忽倏",
     "DESCRIPTIONS": [
       "失去生命时，获得相应数值的 #y力量 。"
     ]
   },
-  "battleTowers:ExpendablePower": {
+  "${ModID}:ExpendablePower": {
     "NAME": "消耗品",
     "DESCRIPTIONS": [
       "回合结束时，失去 #b",
       " 生命。"
     ]
   },
-  "battleTowers:CardEaterPower": {
+  "${ModID}:CardEaterPower": {
     "NAME": "吞卡",
     "DESCRIPTIONS": [
       "你的回合开始时，纸板傀儡会选中你手中的一张牌，当你打出它时会将其 #y消耗 ，并使纸板傀儡回复 #b",
       " 生命。"
     ]
   },
-  "battleTowers:MakeAWishPower": {
+  "${ModID}:MakeAWishPower": {
     "NAME": "许愿",
     "DESCRIPTIONS": [
       "你还可以许 #b",
       " 个 #y愿望 。 NL 当这个敌人回合开始时，你可以使用一次 #y许愿 打断敌人原本的行动，并获得相应的收益。"
     ]
   },
-  "battleTowers:FeelMyPainPower": {
+  "${ModID}:FeelMyPainPower": {
     "NAME": "共苦",
     "DESCRIPTIONS": [
       "每回合这个敌人第一次失去生命时，你受到等额的伤害。"
     ]
   },
-  "battleTowers:PetrificationPower": {
+  "${ModID}:PetrificationPower": {
     "NAME": "石化",
     "DESCRIPTIONS": [
       "回合开始时，如果你的 #y石化 层数大于等于 #b{0} ，移除所有 #y石化 ，本回合失去 #b{1} #y力量 和 #b{2} #y敏捷 ，并且不能再抽牌。"
     ]
   },
-  "battleTowers:PetrifyingGazePower": {
+  "${ModID}:PetrifyingGazePower": {
     "NAME": "石化凝视",
     "DESCRIPTIONS": [
       "每当你对这个敌人造成伤害或给予负面状态，获得 #b1 层 #y石化 。"
     ]
   },
-  "battleTowers:PetrifyingTouchPower": {
+  "${ModID}:PetrifyingTouchPower": {
     "NAME": "石化之触",
     "DESCRIPTIONS": [
       "每当这个敌人对你造成伤害，获得 #b1 层 #y石化 。"
     ]
   },
-  "battleTowers:GainDexterityPower": {
+  "${ModID}:GainDexterityPower": {
     "NAME": "获得敏捷",
     "DESCRIPTIONS": [
       "回合结束时，获得 #b{0} 点 #y敏捷 。"
     ]
   },
-  "battleTowers:AvertYourGazePower": {
+  "${ModID}:AvertYourGazePower": {
     "NAME": "避开视线",
     "DESCRIPTIONS": [
       "本回合，你对敌人造成伤害或给予负面状态时不会获得 #y石化 。"
     ]
   },
-  "battleTowers:ProtectedPower": {
+  "${ModID}:ProtectedPower": {
     "NAME": "庇护",
     "DESCRIPTIONS": [
       "这个敌人被两边的敌人保护着，受到的攻击伤害减少 #b50% 。"
     ]
   },
-  "battleTowers:VengeancePower": {
+  "${ModID}:VengeancePower": {
     "NAME": "复仇",
     "DESCRIPTIONS": [
       "这个敌人死亡时， ",
@@ -95,14 +95,14 @@
       " #y力量 。"
     ]
   },
-  "battleTowers:TrenchcoatPower": {
+  "${ModID}:TrenchcoatPower": {
     "NAME": "不稳固构造",
     "DESCRIPTIONS": [
       "这个小铜人似乎很不结实，给他一记重拳估计就塌了...本回合再受到 ",
       " 伤害就会改变意图。"
     ]
   },
-  "battleTowers:PawnBuffPower": {
+  "${ModID}:PawnBuffPower": {
     "NAME": "走卒连击！",
     "DESCRIPTIONS": [
       "本回合， #y走卒的攻击 造成 #b",
@@ -110,214 +110,214 @@
       " 额外 #y格挡 。"
     ]
   },
-  "battleTowers:GreedWrathEnvyPower": {
+  "${ModID}:GreedWrathEnvyPower": {
     "NAME": "贪婪，暴怒，妒忌",
     "DESCRIPTIONS": [
       "战斗开始时，你每有一个 #y非初始遗物 获得 #b1 #y力量 ，每有一张 #y稀有 牌获得 #b1 层 #y人工制品 ，每有一张 #y罕见 牌获得 #b1 层 #y金属化 。",
       "战斗开始时，你每有一个 #y非初始遗物 获得 #b1 #y力量 ，每有一个 #yBoss遗物 获得 #b1 层仪式，每有一张 #y稀有 牌获得 #b1 层 #y人工制品 ，每有一张 #y罕见 牌获得 #b1 层 #y金属化 。"
     ]
   },
-  "battleTowers:SlimeFilledRoomPower": {
+  "${ModID}:SlimeFilledRoomPower": {
     "NAME": "充满粘液的房间",
     "DESCRIPTIONS": [
       "战斗开始时，你的牌组每有 #b2 张牌，将 #b1 张 #y粘液 洗入你的抽牌堆。每当你 #y消耗 #y粘液 ，这个敌人失去 #b1 #y力量 。"
     ]
   },
-  "battleTowers:PlayerCurlUpPower": {
+  "${ModID}:PlayerCurlUpPower": {
     "NAME": "蜷身",
     "DESCRIPTIONS": [
     ]
   },
-  "battleTowers:PlayerEnragePower": {
+  "${ModID}:PlayerEnragePower": {
     "NAME": "激怒",
     "DESCRIPTIONS": [
       "敌人的非攻击意图使你增加 #b1 #y力量 。本场战斗还可以触发 #b",
       " 次。"
     ]
   },
-  "battleTowers:TemporaryDeEnergizePower": {
+  "${ModID}:TemporaryDeEnergizePower": {
     "NAME": "失去能量",
     "DESCRIPTIONS": [
       "在你的下 #b",
       " 个回合开始时失去 [E] 。"
     ]
   },
-  "battleTowers:GatheringStormPower": {
+  "${ModID}:GatheringStormPower": {
     "NAME": "收集风暴",
     "DESCRIPTIONS": [
       "回合结束时如果你没有打出攻击牌，风行者的多重攻击段数将会增加。"
     ]
   },
-  "battleTowers:AgainstTheWhirlwindPower": {
+  "${ModID}:AgainstTheWhirlwindPower": {
     "NAME": "面对疾风吧！",
     "DESCRIPTIONS": [
       "回合结束时如果你没有打出攻击牌，风行者的下次多重攻击次数将会增加 #b",
       " 次。", " 次。"
     ]
   },
-  "battleTowers:BurnPower": {
+  "${ModID}:BurnPower": {
     "NAME": "燃烧",
     "DESCRIPTIONS": [
       "回合结束时受到 #b",
       " 点伤害并减少 #b1 层。"
     ]
   },
-  "battleTowers:InquisitorPower": {
+  "${ModID}:InquisitorPower": {
     "NAME": "审判者",
     "DESCRIPTIONS": [
       "每当造成 #b%d 点未被格挡的伤害，裁决者会额外获得行动意图，直至战斗结束（最多2次）"
     ]
   },
-  "battleTowers:JudgementPower": {
+  "${ModID}:JudgementPower": {
     "NAME": "审判",
     "DESCRIPTIONS": [
       "在你回合开始时，如果你有 #b"," 或更多 #y审判 ，那么失去 #b"," 之后的每回合 #y审判者 艾札克将额外行动一次",
       " NL Judgement is increased by unblocked damage taken."
     ]
   },
-  "battleTowers:DoubleTimePower": {
+  "${ModID}:DoubleTimePower": {
     "NAME": "双倍时间",
     "DESCRIPTIONS": [
       "你的回合开始时，获得 [E] [E] 并抽 #b2 张卡牌，但是时间行者将每回合多行动一次"
     ]
   },
-  "battleTowers:TimewalkingPower": {
+  "${ModID}:TimewalkingPower": {
     "NAME": "时间穿梭",
     "DESCRIPTIONS": [
       "时间行者除了每回合的主要行动外，还可以改变时间流向。"
     ]
   },
-  "battleTowers:HalfTime": {
+  "${ModID}:HalfTime": {
     "NAME": "一半时间",
     "DESCRIPTIONS": [
       "在你回合开始时，失去 [E] 并少抽 #b1 张牌，但时间行者将每回合只行动一次"
     ]
   },
-  "battleTowers:TimeStop": {
+  "${ModID}:TimeStop": {
     "NAME": "时间停止",
     "DESCRIPTIONS": [
       "每回合你打出的第一张牌获得 #y净化 ，造成的伤害减少 #b40% 并且获得的格挡减少 #b40% "
     ]
   },
 
-  "battleTowers:FactionChange": {
+  "${ModID}:FactionChange": {
     "NAME": "阵营转换",
     "DESCRIPTIONS": [
       "伪装成黑色棋子。 NL 打出 #y攻击 牌将变成黑色棋子，打出 #y技能 或 #y能力 牌将变成白色棋子。",
       "伪装成白色棋子。 NL 打出 #y攻击 牌将变成黑色棋子，打出 #y技能 或 #y能力 牌将变成白色棋子。"
     ]
   },
-  "battleTowers:WhiteWave": {
+  "${ModID}:WhiteWave": {
     "NAME": "白色浪潮",
     "DESCRIPTIONS": [
       "伪装成白色棋子。"
     ]
   },
-  "battleTowers:BlackWave": {
+  "${ModID}:BlackWave": {
     "NAME": "黑色浪潮",
     "DESCRIPTIONS": [
       "伪装成黑色棋子。"
     ]
   },
-  "battleTowers:Inverse": {
+  "${ModID}:Inverse": {
     "NAME": "顺序颠倒",
     "DESCRIPTIONS": [
       "伪装成另一边的阵营..."
     ]
   },
-  "battleTowers:KiteFlightPower": {
+  "${ModID}:KiteFlightPower": {
     "NAME": "滑翔",
     "DESCRIPTIONS": [
       "少受到 #b%d%% 伤害。每当被攻击后，降低 #b1 。 NL 当层数为 #b0 时，你受到等同该生物剩余生命值的伤害。"
     ]
   },
-  "battleTowers:AlphabetAmplifyPower": {
+  "${ModID}:AlphabetAmplifyPower": {
     "NAME": "增幅",
     "DESCRIPTIONS": [
       "敌人的下一次非攻击意图会执行两次。"
     ]
   },
-  "battleTowers:TimeWarpStopPower": {
+  "${ModID}:TimeWarpStopPower": {
     "NAME": "有限时间",
     "DESCRIPTIONS": [
       "时间扭曲只能触发一次。"
     ]
   },
-  "battleTowers:EnrageStopPower": {
+  "${ModID}:EnrageStopPower": {
     "NAME": "有限激怒",
     "DESCRIPTIONS": [
       "激怒还能再触发 ",
       " 次。"
     ]
   },
-  "battleTowers:NotificationPower": {
+  "${ModID}:NotificationPower": {
     "NAME": "字母战利品",
     "DESCRIPTIONS": [
       "这个敌人每回合执行以某个随机字母开头的行动。击杀这个单位时，获得一个 #y遗物 ，它会大幅增强当前字母开头的牌的效果。"
     ]
   },
-  "battleTowers:WrathPower": {
+  "${ModID}:WrathPower": {
     "NAME": "愤怒",
     "DESCRIPTIONS": [
       "造成和受到的伤害翻倍。"
     ]
   },
-  "battleTowers:PrismShield": {
+  "${ModID}:PrismShield": {
     "NAME": "棱镜护盾之力",
     "DESCRIPTIONS": [
       "储存所有攻击伤害，在回合结束时释放。"
     ]
   },
-  "battleTowers:BookGrowthPower": {
+  "${ModID}:BookGrowthPower": {
     "NAME": "下一章节",
     "DESCRIPTIONS": [
       "每三个回合，这个敌人增加一点 #y力量 。"
     ]
   },
-  "battleTowers:HidePower": {
+  "${ModID}:HidePower": {
     "NAME": "潜伏之力",
     "DESCRIPTIONS": [
       "这个单位的格挡被突破时会被眩晕，并失去所有 #y力量 和壁垒效果。攻击后，失去所有格挡、 #y力量 ，和壁垒效果。"
     ]
   },
-  "battleTowers:PrismPower": {
+  "${ModID}:PrismPower": {
     "NAME": "棱镜充能",
     "DESCRIPTIONS": [
       "当棱镜护盾储存的伤害超过20时，每多1点，这个敌人的攻击伤害增加1，当前额外增加 #b",
       " 点伤害。"
     ]
   },
-  "battleTowers:CursedTotemPower": {
+  "${ModID}:CursedTotemPower": {
     "NAME": "诅咒图腾",
     "DESCRIPTIONS": [
       "所有伤害和生命流逝降至 #b1 。"
     ]
   },
-  "battleTowers:StrengthTotemPower": {
+  "${ModID}:StrengthTotemPower": {
     "NAME": "力量图腾",
     "DESCRIPTIONS": [
       "当 %1$s 存活时， #y亡灵图腾 额外获得 #b%2$d 点 #y力量 。"
     ]
   },
-  "battleTowers:GrievousWounds": {
+  "${ModID}:GrievousWounds": {
     "NAME": "重伤",
     "DESCRIPTIONS": [
       "每当你受到未被格挡的攻击伤害，最大生命降低 #b%d 。"
     ]
   },
-  "battleTowers:Counter": {
+  "${ModID}:Counter": {
     "NAME": "反击",
     "DESCRIPTIONS": [
       "每当这个生物受到的未被格挡的攻击伤害小于 #b%d ，发动一次 #b%d 伤害的攻击。"
     ]
   },
-  "battleTowers:RainbowPower": {
+  "${ModID}:RainbowPower": {
     "NAME": "彩虹之力",
     "DESCRIPTIONS": [
       "你每打出一张牌，这个生物会根据其类型获得增益。 NL #r攻击 ： #b%d 临时 #y力量  NL #g技能 ： #b%d #y格挡  NL #b能力 ： #b%d #y人工制品 "
     ]
   },
-  "battleTowers:ExtraHitsPower": {
+  "${ModID}:ExtraHitsPower": {
     "NAME": "奋进",
     "DESCRIPTIONS": [
       "这个生物下次攻击时将额外攻击 #b",
@@ -325,14 +325,14 @@
       " 次"
     ]
   },
-  "battleTowers:ClunkyPower": {
+  "${ModID}:ClunkyPower": {
     "NAME": "笨重",
     "DESCRIPTIONS": [
       "如果你在一回合内打出 #b",
       " 张以上的 #y攻击 牌，这名敌人的攻击段数降至1。"
     ]
   },
-  "battleTowers:CopyCatPower": {
+  "${ModID}:CopyCatPower": {
     "NAME": "效仿",
     "DESCRIPTIONS": [
       "这名精英受到了你的 ",

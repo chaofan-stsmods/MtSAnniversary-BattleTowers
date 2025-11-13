@@ -1,5 +1,5 @@
 {
-  "battleTowers:ApologySlime": {
+  "${ModID}:ApologySlime": {
     "MOVES": [
       ""
     ],
@@ -8,7 +8,7 @@
       ""
     ]
   },
-  "battleTowers:ExampleMonster": {
+  "${ModID}:ExampleMonster": {
     "MOVES": [
       "挥击",
       "尖叫",
@@ -18,7 +18,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Cawcawrot": {
+  "${ModID}:Cawcawrot": {
     "MOVES": [
       "超级仪式",
       "铁斩波"
@@ -28,7 +28,7 @@
       "我要变得更强！  呜嗷——!"
     ]
   },
-  "battleTowers:Veggieta": {
+  "${ModID}:Veggieta": {
     "MOVES": [
       "丢黄瓜",
       "胡椒喷射"
@@ -37,7 +37,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:CardboardGolem": {
+  "${ModID}:CardboardGolem": {
     "MOVES": [
       "头槌",
       "吞食",
@@ -48,7 +48,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:ExecutiveSlime": {
+  "${ModID}:ExecutiveSlime": {
     "MOVES": [
       "职权",
       "暴怒",
@@ -63,7 +63,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Slimeling": {
+  "${ModID}:Slimeling": {
     "MOVES": [
       "冲撞",
       "腐蚀喷吐",
@@ -73,7 +73,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:tneisnarT": {
+  "${ModID}:tneisnarT": {
     "MOVES": [
       ""
     ],
@@ -81,7 +81,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Dijinn": {
+  "${ModID}:Dijinn": {
     "MOVES": [
       "强化",
       "腐化",
@@ -96,7 +96,7 @@
       "现在，我解放了！"
     ]
   },
-  "battleTowers:VoodooDoll": {
+  "${ModID}:VoodooDoll": {
     "MOVES": [
       "诅咒",
       "针与刺",
@@ -107,7 +107,7 @@
       "这个敌人将要失去 #b", " 生命并对你施加一个强大的 #y负面效果 。"
     ]
   },
-  "battleTowers:Gorgon": {
+  "${ModID}:Gorgon": {
     "MOVES": [
       "石化凝视",
       "毒蛇之咬",
@@ -116,7 +116,7 @@
     ],
     "NAME": "戈尔贡"
   },
-  "battleTowers:ItozusTheWindwalker": {
+  "${ModID}:ItozusTheWindwalker": {
     "MOVES": [
       "空气利刃",
       "酝酿风暴",
@@ -128,7 +128,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:ZastraszTheJusticar": {
+  "${ModID}:ZastraszTheJusticar": {
     "MOVES": [
       "圣光惩戒",
       "肃正守夜",
@@ -140,7 +140,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:NatariTheTimewalker": {
+  "${ModID}:NatariTheTimewalker": {
     "MOVES": [
       "比光还快",
       "沙爆",
@@ -156,7 +156,7 @@
       "你想和 ~我斗智斗勇吗？~ 我会告诉你为什么这是一个严重错误的。"
     ]
   },
-  "battleTowers:GoldenLouse": {
+  "${ModID}:GoldenLouse": {
     "MOVES": [
       "噬咬",
       "保护",
@@ -166,7 +166,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SilverLouse": {
+  "${ModID}:SilverLouse": {
     "MOVES": [
       "噬咬",
       "强化",
@@ -176,7 +176,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryRed": {
+  "${ModID}:SentryRed": {
     "MOVES": [
       "射线",
       "灼烧"
@@ -185,7 +185,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryGreen": {
+  "${ModID}:SentryGreen": {
     "MOVES": [
       "射线",
       "喷吐"
@@ -194,7 +194,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryPurple": {
+  "${ModID}:SentryPurple": {
     "MOVES": [
       "射线",
       "汲取"
@@ -203,7 +203,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryHuge": {
+  "${ModID}:SentryHuge": {
     "MOVES": [
       "双重射线",
       "激怒"
@@ -212,7 +212,7 @@
     "DIALOG": [
     ]
   }, 
-  "battleTowers:FireSlimeL": {
+  "${ModID}:FireSlimeL": {
   "MOVES": [
     "火山吐息",
     "冲撞",
@@ -224,7 +224,7 @@
     ""
   ]
 },
-  "battleTowers:FireSlimeM": {
+  "${ModID}:FireSlimeM": {
     "MOVES": [
       "火山吐息",
       "冲撞",
@@ -234,7 +234,7 @@
     "DIALOG": [
       ""
     ]
-  }, "battleTowers:IceSlimeL": {
+  }, "${ModID}:IceSlimeL": {
   "MOVES": [
     "冰川吐息",
     "冲撞",
@@ -246,7 +246,7 @@
     ""
   ]
 },
-  "battleTowers:IceSlimeM": {
+  "${ModID}:IceSlimeM": {
     "MOVES": [
       "冰川吐息",
       "冲撞",
@@ -257,7 +257,7 @@
       ""
     ]
   },
-  "battleTowers:Trenchcoat": {
+  "${ModID}:Trenchcoat": {
     "MOVES": [
       "",
       "",
@@ -270,7 +270,7 @@
       ""
     ]
   },
-  "battleTowers:InvisibleIntentDisplayer": {
+  "${ModID}:InvisibleIntentDisplayer": {
     "MOVES": [
     ],
     "NAME": "",
@@ -278,7 +278,7 @@
       ""
     ]
   },
-  "battleTowers:DoomedSoul": {
+  "${ModID}:DoomedSoul": {
     "MOVES": [
       "贪婪",
       "暴怒",
@@ -286,7 +286,7 @@
     ],
     "NAME": "注定毁灭的灵魂"
   },
-  "battleTowers:GigaSlime": {
+  "${ModID}:GigaSlime": {
     "MOVES": [
       "黏糊喷射",
       "冲撞舔舔",
@@ -294,7 +294,7 @@
     ],
     "NAME": "巨型史莱姆"
   },
-  "battleTowers:MinotaurGladiator": {
+  "${ModID}:MinotaurGladiator": {
     "MOVES": [
       "切割",
       "破坏",
@@ -302,7 +302,7 @@
     ],
     "NAME": "牛头角斗士"
   },
-  "battleTowers:BurningShambler": {
+  "${ModID}:BurningShambler": {
     "MOVES": [
       "火闪",
       "营火",
@@ -310,7 +310,7 @@
     ],
     "NAME": "燃烧蹒跚者"
   },
-  "battleTowers:AlphabetBoss": {
+  "${ModID}:AlphabetBoss": {
     "MOVES": [
       "A - Amplify（增幅）",
       "D - Deep Freeze（深度冻结）",
@@ -341,12 +341,12 @@
     ],
     "NAME": "拼字咒语之书"
   },
-  "battleTowers:CultistArmorer": {
+  "${ModID}:CultistArmorer": {
     "MOVES": [
     ],
     "NAME": "邪教徒锻造师"
   },
-  "battleTowers:Queen": {
+  "${ModID}:Queen": {
     "MOVES": [
       "女王意志",
       "着色伪装",
@@ -359,7 +359,7 @@
     ],
     "NAME": "黑白女王"
   },
-  "battleTowers:GiantArm": {
+  "${ModID}:GiantArm": {
     "NAME": "巨臂",
     "DIALOG": [
       "我们来打一架吧！",
@@ -368,13 +368,13 @@
       "我奶奶都比你用力！"
     ]
   },
-  "battleTowers:PrismGuardian": {
+  "${ModID}:PrismGuardian": {
     "NAME": "棱镜守卫",
     "DIALOG": [
       ""
     ]
   },
-  "battleTowers:NinjaLouse": {
+  "${ModID}:NinjaLouse": {
     "MOVES": [
       "冲撞",
       "准备",
@@ -382,19 +382,19 @@
     ],
     "NAME": "忍者虱虫"
   },
-  "battleTowers:Magus": {
+  "${ModID}:Magus": {
     "NAME": "法师",
     "DIALOG": [
       "大的要来咯！"
     ]
   },
-  "battleTowers:Assassin": {
+  "${ModID}:Assassin": {
     "NAME": "刺客",
     "DIALOG": [
       ""
     ]
   },
-  "battleTowers:Necrototem": {
+  "${ModID}:Necrototem": {
     "MOVES": [
       "召唤",
       "诅咒",
@@ -402,19 +402,19 @@
     ],
     "NAME": "亡灵图腾"
   },
-  "battleTowers:NecrototemMinion": {
+  "${ModID}:NecrototemMinion": {
     "MOVES": [],
     "NAME": "图腾"
   },
-  "battleTowers:Paladin": {
+  "${ModID}:Paladin": {
     "NAME": "帕拉丁"
   },
-  "battleTowers:LouseHorde": {
+  "${ModID}:LouseHorde": {
     "NAME": "虱虫群",
     "DIALOG" : [],
     "MOVES": []
   },
-  "battleTowers:Romeo": {
+  "${ModID}:Romeo": {
     "NAME": "罗密欧",
     "DIALOG" : ["你会后悔遇到我， @蠢货@ ！",
       "呵，我可不能在熊面前丢人...",
@@ -427,7 +427,7 @@
 	  "出彩时刻"
     ]
   },
-  "battleTowers:RainbowLouse": {
+  "${ModID}:RainbowLouse": {
     "MOVES": [
       "强化",
       "奋进",
@@ -435,7 +435,7 @@
     ],
     "NAME": "强无敌虱虫"
   },
-  "battleTowers:AspiringChampion": {
+  "${ModID}:AspiringChampion": {
     "MOVES": [
       "邯郸学步",
       "东施效颦",

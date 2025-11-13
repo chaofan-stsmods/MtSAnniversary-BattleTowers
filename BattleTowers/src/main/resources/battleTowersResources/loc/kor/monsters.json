@@ -1,5 +1,5 @@
 {
-  "battleTowers:ApologySlime": {
+  "${ModID}:ApologySlime": {
     "MOVES": [
       ""
     ],
@@ -8,7 +8,7 @@
       ""
     ]
   },
-  "battleTowers:ExampleMonster": {
+  "${ModID}:ExampleMonster": {
     "MOVES": [
       "휩쓸기",
       "소리 지르기",
@@ -18,7 +18,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Cawcawrot": {
+  "${ModID}:Cawcawrot": {
     "MOVES": [
       "초 의식",
       "흩날리는 싸대기"
@@ -28,7 +28,7 @@
       "나 화났다! 플레이어!!"
     ]
   },
-  "battleTowers:Veggieta": {
+  "${ModID}:Veggieta": {
     "MOVES": [
       "오잉 총",
       "고추 스프레이"
@@ -37,7 +37,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:CardboardGolem": {
+  "${ModID}:CardboardGolem": {
     "MOVES": [
       "머리 박치기",
       "식사",
@@ -48,7 +48,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:ExecutiveSlime": {
+  "${ModID}:ExecutiveSlime": {
     "MOVES": [
       "책임",
       "개짜증내기",
@@ -63,7 +63,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Slimeling": {
+  "${ModID}:Slimeling": {
     "MOVES": [
       "태클",
       "독액 발사",
@@ -73,7 +73,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:tneisnarT": {
+  "${ModID}:tneisnarT": {
     "MOVES": [
       ""
     ],
@@ -81,7 +81,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:Dijinn": {
+  "${ModID}:Dijinn": {
     "MOVES": [
       "권력",
       "부패",
@@ -96,7 +96,7 @@
       "이제, 난 자유다!"
     ]
   },
-  "battleTowers:VoodooDoll": {
+  "${ModID}:VoodooDoll": {
     "MOVES": [
       "저주",
       "핀과 가시",
@@ -107,7 +107,7 @@
       "이 적이 체력을 #b", " 잃고 당신에게 #y아주 #y강력한 #y해로운 #y효과를 부여하려고 합니다."
     ]
   },
-  "battleTowers:Gorgon": {
+  "${ModID}:Gorgon": {
     "MOVES": [
       "소름끼치는 시선",
       "뱀의 이빨",
@@ -116,7 +116,7 @@
     ],
     "NAME": "고르곤"
   },
-  "battleTowers:ItozusTheWindwalker": {
+  "${ModID}:ItozusTheWindwalker": {
     "MOVES": [
       "바람 날붙이",
       "끓어오르는 폭풍",
@@ -128,7 +128,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:ZastraszTheJusticar": {
+  "${ModID}:ZastraszTheJusticar": {
     "MOVES": [
       "신성 엄벌",
       "엄숙한 맹세",
@@ -140,7 +140,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:NatariTheTimewalker": {
+  "${ModID}:NatariTheTimewalker": {
     "MOVES": [
       "초광속",
       "모래 방출",
@@ -159,7 +159,7 @@
       "~자네~ ~같은~ 상대에게 @난@ 그리 쉽게 흔들리지 않는다네."
     ]
   },
-  "battleTowers:GoldenLouse": {
+  "${ModID}:GoldenLouse": {
     "MOVES": [
       "물기",
       "보호",
@@ -169,7 +169,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SilverLouse": {
+  "${ModID}:SilverLouse": {
     "MOVES": [
       "물기",
       "버프",
@@ -179,7 +179,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryRed": {
+  "${ModID}:SentryRed": {
     "MOVES": [
       "빔",
       "불태우기"
@@ -188,7 +188,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryGreen": {
+  "${ModID}:SentryGreen": {
     "MOVES": [
       "빔",
       "튀어오르기"
@@ -197,7 +197,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryPurple": {
+  "${ModID}:SentryPurple": {
     "MOVES": [
       "빔",
       "흡수"
@@ -206,7 +206,7 @@
     "DIALOG": [
     ]
   },
-  "battleTowers:SentryHuge": {
+  "${ModID}:SentryHuge": {
     "MOVES": [
       "더블 빔",
       "약올리기"
@@ -215,7 +215,7 @@
     "DIALOG": [
     ]
   }, 
-  "battleTowers:FireSlimeL": {
+  "${ModID}:FireSlimeL": {
   "MOVES": [
     "발화성 타액",
     "태클",
@@ -227,7 +227,7 @@
     ""
   ]
 },
-  "battleTowers:FireSlimeM": {
+  "${ModID}:FireSlimeM": {
     "MOVES": [
       "발화성 타액",
       "태클",
@@ -237,7 +237,7 @@
     "DIALOG": [
       ""
     ]
-  }, "battleTowers:IceSlimeL": {
+  }, "${ModID}:IceSlimeL": {
   "MOVES": [
     "급속 냉동 타액",
     "태클",
@@ -249,7 +249,7 @@
     ""
   ]
 },
-  "battleTowers:IceSlimeM": {
+  "${ModID}:IceSlimeM": {
     "MOVES": [
       "급속 냉동 타액",
       "태클",
@@ -260,7 +260,7 @@
       ""
     ]
   },
-  "battleTowers:Trenchcoat": {
+  "${ModID}:Trenchcoat": {
     "MOVES": [
       "",
       "",
@@ -273,7 +273,7 @@
       ""
     ]
   },
-  "battleTowers:InvisibleIntentDisplayer": {
+  "${ModID}:InvisibleIntentDisplayer": {
     "MOVES": [
     ],
     "NAME": "",
@@ -281,7 +281,7 @@
       ""
     ]
   },
-  "battleTowers:DoomedSoul": {
+  "${ModID}:DoomedSoul": {
     "MOVES": [
       "탐욕",
       "진노",
@@ -289,7 +289,7 @@
     ],
     "NAME": "저주받은 영혼"
   },
-  "battleTowers:GigaSlime": {
+  "${ModID}:GigaSlime": {
     "MOVES": [
       "점액 스프레이",
       "태클 + 핥기",
@@ -297,7 +297,7 @@
     ],
     "NAME": "기가 슬라임"
   },
-  "battleTowers:MinotaurGladiator": {
+  "${ModID}:MinotaurGladiator": {
     "MOVES": [
       "자르기",
       "파쇄",
@@ -305,7 +305,7 @@
     ],
     "NAME": "미노타우르스 투사"
   },
-  "battleTowers:BurningShambler": {
+  "${ModID}:BurningShambler": {
     "MOVES": [
       "깜빡임의 불꽃",
       "모닥불",
@@ -313,7 +313,7 @@
     ],
     "NAME": "기어오는 불씨"
   },
-  "battleTowers:AlphabetBoss": {
+  "${ModID}:AlphabetBoss": {
     "MOVES": [
       "A is for Amplify(증폭)",
       "D is for Deep Freeze(급속 냉동)",
@@ -344,12 +344,12 @@
     ],
     "NAME": "맞춤법의 책"
   },
-  "battleTowers:CultistArmorer": {
+  "${ModID}:CultistArmorer": {
     "MOVES": [
     ],
     "NAME": "광신자 병기 제작가"
   },
-  "battleTowers:Queen": {
+  "${ModID}:Queen": {
     "MOVES": [
       "퀸의 의지",
       "",
@@ -362,7 +362,7 @@
     ],
     "NAME": "흑백 모방의 퀸"
   },
-  "battleTowers:GiantArm": {
+  "${ModID}:GiantArm": {
     "NAME": "거인의 팔",
     "DIALOG": [
       "좋아, 덤벼라!",
@@ -371,13 +371,13 @@
       "우리 할머니가 그것보단 더 세게 때린다고!"
     ]
   },
-  "battleTowers:PrismGuardian": {
+  "${ModID}:PrismGuardian": {
     "NAME": "프리즘 수호자",
     "DIALOG": [
       ""
     ]
   },
-  "battleTowers:NinjaLouse": {
+  "${ModID}:NinjaLouse": {
     "MOVES": [
       "태클",
       "준비",
@@ -385,19 +385,19 @@
     ],
     "NAME": "닌자 공벌레"
   },
-  "battleTowers:Magus": {
+  "${ModID}:Magus": {
     "NAME": "매그너스",
     "DIALOG": [
       "각오는 됐겠지!"
     ]
   },
-  "battleTowers:Assassin": {
+  "${ModID}:Assassin": {
     "NAME": "어쌔신",
     "DIALOG": [
       ""
     ]
   },
-  "battleTowers:Necrototem": {
+  "${ModID}:Necrototem": {
     "MOVES": [
       "소환",
       "저주",
@@ -405,19 +405,19 @@
     ],
     "NAME": "네크로토템"
   },
-  "battleTowers:NecrototemMinion": {
+  "${ModID}:NecrototemMinion": {
     "MOVES": [],
     "NAME": "토템"
   },
-  "battleTowers:Paladin": {
+  "${ModID}:Paladin": {
     "NAME": "성기사"
   },
-  "battleTowers:LouseHorde": {
+  "${ModID}:LouseHorde": {
     "NAME": "공벌레 무리",
     "DIALOG" : [],
     "MOVES": []
   },
-  "battleTowers:Romeo": {
+  "${ModID}:Romeo": {
     "NAME": "로미오",
     "DIALOG" : ["나랑 마주친걸 후회하게 될 거다, @멍텅구리@ !",
       "하, 곰이 날 보고 있는데 두려울게 있나...",
@@ -429,7 +429,7 @@
       "사지 절단"
     ]
   },
-  "battleTowers:RainbowLouse": {
+  "${ModID}:RainbowLouse": {
     "MOVES": [
       "자가 강화",
       "투쟁의 발버둥",
@@ -437,7 +437,7 @@
     ],
     "NAME": "무지개빛 공벌레"
   },
-  "battleTowers:AspiringChampion": {
+  "${ModID}:AspiringChampion": {
     "MOVES": [
       "카피캣",
       "카피캣",

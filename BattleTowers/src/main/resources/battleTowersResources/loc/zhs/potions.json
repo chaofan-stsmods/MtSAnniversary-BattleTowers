@@ -1,5 +1,5 @@
 {
-  "battleTowers:XYZ": {
+  "${ModID}:XYZ": {
     "NAME": "X Y Z",
     "DESCRIPTIONS": [
       你懂的"
