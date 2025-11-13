@@ -4,6 +4,7 @@ import BattleTowers.BattleTowers;
 import BattleTowers.monsters.Dijinn;
 import basemod.AutoAdd;
 import basemod.abstracts.CustomCard;
+import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.core.CardCrawlGame;
 import com.megacrit.cardcrawl.localization.CardStrings;
@@ -41,5 +42,9 @@ public class MakeAWish extends CustomCard {
         dijinn.makeAWish(magicNumber);
     }
 
+    @Override
+    public AbstractCard makeCopy(){
+        return new MakeAWish(this.dijinn,this.magicNumber);
+    }
 
 }
